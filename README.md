@@ -56,8 +56,8 @@ I build production systems for businesses: ordering portals, integrations with E
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/osiedle-wybor.png" alt="Interactive apartment selector">
 <h3>Housing development website</h3>
-<sub><a href="https://osiedlepodksiazem.pl/">osiedlepodksiazem.pl</a> · React · Vite · Tailwind CSS · Node.js</sub>
-<p>Interactive selector drawn on the architectural renders: pick a building, hover a floor to see how many apartments are still available, then open the exact floor plan of a single apartment. Content prerendered to HTML for speed and SEO.</p>
+<sub><a href="https://osiedlepodksiazem.pl/">osiedlepodksiazem.pl</a> · React · Vite · Tailwind CSS</sub>
+<p>Interactive selector drawn on the architectural renders: pick a building, hover a floor to see how many apartments are still available, then open the exact floor plan of a single apartment.</p>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/electio.jpg" alt="Electio foundation website">
