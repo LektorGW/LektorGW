@@ -18,18 +18,18 @@ I build production systems for businesses: ordering portals, integrations with E
 <table>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://github.com/LektorGW/mtc-tactical-assistant"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mtc-map-panel.png" alt="MTC Tactical Assistant main panel" width="100%"></a>
-<h3>MTC Tactical Assistant · <a href="https://github.com/LektorGW/mtc-tactical-assistant">open source · MIT</a></h3>
-<sub>Rust · Tauri 2 · React 19 · TypeScript · local OCR · 109 UI tests</sub>
-<p>A Windows desktop app that reads a game's map and HUD from the screen with local OCR and turns it into a firing solution in a transparent overlay. Ballistics solver with drag and rocket-motor models (RK4), 3D intercept for moving targets, map calibration from two points, 153 projectile profiles for 51 weapons. Core logic is a workspace of 6 Rust crates behind a React UI.</p>
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mitopharma.png" alt="B2B wholesale ordering portal" width="100%">
+<h3>B2B wholesale ordering portal</h3>
+<sub><b>In production</b> · Next.js 15 · React 19 · TypeScript · Prisma · C#/.NET</sub>
+<p>Customer-specific prices, quick ordering by product code, invoices and balances. My C#/.NET connector syncs orders both ways with the Subiekt GT ERP, shipments go through DHL, InPost and Orlen Paczka APIs, and the sales team gets an AI assistant that only sees pseudonymised data. First working version in a week.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mitopharma.png" alt="B2B wholesale ordering portal">
-<h3>B2B wholesale ordering portal</h3>
-<sub><b>In production</b> · Next.js 15 · React 19 · TypeScript · Prisma · C#/.NET</sub>
-<p>Customer-specific prices, quick ordering by product code, invoices and balances. My C#/.NET connector syncs orders both ways with the Subiekt GT ERP, shipments go through DHL, InPost and Orlen Paczka APIs, and the sales team gets an AI assistant that only sees pseudonymised data. First working version in a week.</p>
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/osiedle-wybor.png" alt="Interactive apartment selector">
+<h3>Housing development website</h3>
+<sub><a href="https://osiedlepodksiazem.pl/">osiedlepodksiazem.pl</a> · React · Vite · Tailwind CSS</sub>
+<p>Interactive selector drawn on the architectural renders: pick a building, hover a floor to see how many apartments are still available, then open the exact floor plan of a single apartment.</p>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/rtr-archiwum.png" alt="Searchable podcast archive">
@@ -54,16 +54,16 @@ I build production systems for businesses: ordering portals, integrations with E
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/osiedle-wybor.png" alt="Interactive apartment selector">
-<h3>Housing development website</h3>
-<sub><a href="https://osiedlepodksiazem.pl/">osiedlepodksiazem.pl</a> · React · Vite · Tailwind CSS</sub>
-<p>Interactive selector drawn on the architectural renders: pick a building, hover a floor to see how many apartments are still available, then open the exact floor plan of a single apartment.</p>
-</td>
-<td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/electio.jpg" alt="Electio foundation website">
 <h3>Foundation website &amp; CMS</h3>
 <sub><a href="https://electio.org.pl">electio.org.pl</a> · Laravel 12 · Livewire 3 · Filament</sub>
 <p>Migrated from WordPress to a custom Laravel app with an admin panel: district map, projects and events, online donations through PayU, newsletter with double opt-in, cookie-free analytics and technical SEO.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/LektorGW/mtc-tactical-assistant"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mtc-map-panel.png" alt="MTC Tactical Assistant main panel" width="100%"></a>
+<h3>MTC Tactical Assistant · <a href="https://github.com/LektorGW/mtc-tactical-assistant">open source · MIT</a></h3>
+<sub>Rust · Tauri 2 · React 19 · TypeScript · local OCR · 109 UI tests</sub>
+<p>A Windows desktop app that reads a game's map and HUD from the screen with local OCR and turns it into a firing solution in a transparent overlay. Ballistics solver with drag and rocket-motor models (RK4), 3D intercept for moving targets, map calibration from two points, 153 projectile profiles for 51 weapons. Core logic is a workspace of 6 Rust crates behind a React UI.</p>
 </td>
 </tr>
 </table>
