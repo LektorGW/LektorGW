@@ -52,6 +52,20 @@ I build production systems for businesses: ordering portals, integrations with E
 <p>Interactive floor plan connected to the store directory: level switching, search, zoom and a unit card drawn on the architectural plans. Tenants, promotions and events managed in a Filament CMS.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/osiedle-wybor.png" alt="Interactive apartment selector">
+<h3>Housing development website</h3>
+<sub><a href="https://osiedlepodksiazem.pl/">osiedlepodksiazem.pl</a> · React · Vite · Tailwind CSS · Node.js</sub>
+<p>Interactive selector drawn on the architectural renders: pick a building, hover a floor to see how many apartments are still available, then open the exact floor plan of a single apartment. Content prerendered to HTML for speed and SEO.</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/electio.jpg" alt="Electio foundation website">
+<h3>Foundation website &amp; CMS</h3>
+<sub><a href="https://electio.org.pl">electio.org.pl</a> · Laravel 12 · Livewire 3 · Filament</sub>
+<p>Migrated from WordPress to a custom Laravel app with an admin panel: district map, projects and events, online donations through PayU, newsletter with double opt-in, cookie-free analytics and technical SEO.</p>
+</td>
+</tr>
 </table>
 
 <details>
@@ -59,7 +73,6 @@ I build production systems for businesses: ordering portals, integrations with E
 <br>
 
 - **Bakery operations system** · Next.js 16, Drizzle, KSeF, Dotykačka POS. Raw material stock, recipes with costing, production orders, transfers between shops, national e-invoicing. Built in 4 days part-time with AI coding agents.
-- **[electio.org.pl](https://electio.org.pl)** · Laravel 12, Livewire 3, Filament. WordPress migration, district map, projects and events, online donations (PayU), newsletter with double opt-in.
 - **Roblox** · 3 published games: [Parcel Empire Tycoon](https://www.roblox.com/games/116481735425004/Parcel-Empire-Tycoon) (main project), [Space Garden](https://www.roblox.com/games/101257030687266/Space-Garden) (190+ automated tests) and Rush to the Storm Egg!.
 - **Hackathons** · [tender-lens](https://github.com/LektorGW/tender-lens) (on-device + Firebase AI tender analysis) · [mistakemap](https://github.com/LektorGW/mistakemap) (misconception maps for teachers).
 
