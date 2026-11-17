@@ -18,10 +18,10 @@ I build production systems for businesses: ordering portals, integrations with E
 <table>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://www.roblox.com/games/116481735425004/Parcel-Empire-Tycoon"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/parcel-empire.png" alt="Parcel Empire Tycoon on Roblox" width="100%"></a>
-<h3>Parcel Empire Tycoon · my main Roblox game</h3>
-<sub><a href="https://www.roblox.com/games/116481735425004/Parcel-Empire-Tycoon"><b>Play on Roblox</b></a> · Luau · multiplayer · DataStore</sub>
-<p>A logistics tycoon: claim a plot, build sorting lines, carry and ship parcels, and grow a small depot into a delivery empire with friends. Around 140 scripts: 40 server services and 30+ client modules behind a single request router that validates every client call, with session-locked saves so progress can't be duplicated or overwritten.</p>
+<a href="https://github.com/LektorGW/mtc-tactical-assistant"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mtc-map-panel.png" alt="MTC Tactical Assistant main panel" width="100%"></a>
+<h3>MTC Tactical Assistant · <a href="https://github.com/LektorGW/mtc-tactical-assistant">open source</a></h3>
+<sub>Rust · Tauri 2 · React 19 · TypeScript · local OCR · 109 UI tests</sub>
+<p>A Windows desktop app that reads a game's map and HUD from the screen with local OCR and turns it into a firing solution in a transparent overlay. Ballistics solver with drag and rocket-motor models (RK4), 3D intercept for moving targets, map calibration from two points, 153 projectile profiles for 51 weapons. Core logic is a workspace of 6 Rust crates behind a React UI.</p>
 </td>
 </tr>
 <tr>
