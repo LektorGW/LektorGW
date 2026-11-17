@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mkaczmarczyk.com/en/"><img src="https://img.shields.io/badge/Portfolio-mkaczmarczyk.com-ff7844?style=for-the-badge&labelColor=111211" alt="Portfolio"></a>
   <a href="https://apps.shopify.com/partners/lektor"><img src="https://img.shields.io/badge/Shopify_App_Store-9_apps-7AB55C?style=for-the-badge&logo=shopify&logoColor=white&labelColor=111211" alt="Shopify apps"></a>
-  <a href="https://www.roblox.com/games/101257030687266/Space-Garden"><img src="https://img.shields.io/badge/Roblox-Space_Garden-efeee8?style=for-the-badge&logo=roblox&logoColor=white&labelColor=111211" alt="Space Garden on Roblox"></a>
+  <a href="https://www.roblox.com/games/116481735425004/Parcel-Empire-Tycoon"><img src="https://img.shields.io/badge/Play_on_Roblox-Parcel_Empire_Tycoon-ff7844?style=for-the-badge&logo=roblox&logoColor=white&labelColor=111211" alt="Parcel Empire Tycoon on Roblox"></a>
   <img src="https://img.shields.io/badge/Open_to-remote_work_%26_projects-2ea043?style=for-the-badge&labelColor=111211" alt="Open to work">
 </p>
 
@@ -16,6 +16,14 @@ I build production systems for businesses: ordering portals, integrations with E
 ## Selected work
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://www.roblox.com/games/116481735425004/Parcel-Empire-Tycoon"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/parcel-empire.png" alt="Parcel Empire Tycoon on Roblox" width="100%"></a>
+<h3>Parcel Empire Tycoon · my main Roblox game</h3>
+<sub><a href="https://www.roblox.com/games/116481735425004/Parcel-Empire-Tycoon"><b>Play on Roblox</b></a> · Luau · multiplayer · DataStore</sub>
+<p>A logistics tycoon: claim a plot, build sorting lines, carry and ship parcels, and grow a small depot into a delivery empire with friends. Around 140 scripts: 40 server services and 30+ client modules behind a single request router that validates every client call, with session-locked saves so progress can't be duplicated or overwritten.</p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mitopharma.png" alt="B2B wholesale ordering portal">
@@ -52,7 +60,7 @@ I build production systems for businesses: ordering portals, integrations with E
 
 - **Bakery operations system** · Next.js 16, Drizzle, KSeF, Dotykačka POS. Raw material stock, recipes with costing, production orders, transfers between shops, national e-invoicing. Built in 4 days part-time with AI coding agents.
 - **[electio.org.pl](https://electio.org.pl)** · Laravel 12, Livewire 3, Filament. WordPress migration, district map, projects and events, online donations (PayU), newsletter with double opt-in.
-- **Roblox** · 3 published games, including [Space Garden](https://www.roblox.com/games/101257030687266/Space-Garden) (Luau, DataStore, MarketplaceService, 190+ automated tests).
+- **Roblox** · 3 published games: [Parcel Empire Tycoon](https://www.roblox.com/games/116481735425004/Parcel-Empire-Tycoon) (main project), [Space Garden](https://www.roblox.com/games/101257030687266/Space-Garden) (190+ automated tests) and Rush to the Storm Egg!.
 - **Hackathons** · [tender-lens](https://github.com/LektorGW/tender-lens) (on-device + Firebase AI tender analysis) · [mistakemap](https://github.com/LektorGW/mistakemap) (misconception maps for teachers).
 
 </details>
