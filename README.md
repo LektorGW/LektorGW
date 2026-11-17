@@ -40,24 +40,24 @@ I build production systems for businesses: ordering portals, integrations with E
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/electio.jpg" alt="Electio foundation website">
+<h3>Foundation website &amp; CMS</h3>
+<sub><a href="https://electio.org.pl">electio.org.pl</a> · Laravel 12 · Livewire 3 · Filament</sub>
+<p>Migrated from WordPress to a custom Laravel app with an admin panel: district map, projects and events, online donations through PayU, newsletter with double opt-in, cookie-free analytics and technical SEO.</p>
+</td>
+<td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/lektoro-customs.png" alt="Lektoro Shopify apps">
 <h3>Lektoro · 9 Shopify apps</h3>
 <sub><a href="https://apps.shopify.com/partners/lektor">Shopify App Store</a> · TypeScript · React Router</sub>
 <p>EU product compliance (GPSR, EPR), HS codes and customs data, stock and sync monitoring, purchase orders with MOQ, price rounding.</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/panorama-plan.png" alt="Shopping centre interactive floor plan">
 <h3>Shopping centre website</h3>
 <sub><a href="https://chpanorama.pl">chpanorama.pl</a> · Laravel 11 · Filament · Alpine.js</sub>
 <p>Interactive floor plan connected to the store directory: level switching, search, zoom and a unit card drawn on the architectural plans. Tenants, promotions and events managed in a Filament CMS.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/electio.jpg" alt="Electio foundation website">
-<h3>Foundation website &amp; CMS</h3>
-<sub><a href="https://electio.org.pl">electio.org.pl</a> · Laravel 12 · Livewire 3 · Filament</sub>
-<p>Migrated from WordPress to a custom Laravel app with an admin panel: district map, projects and events, online donations through PayU, newsletter with double opt-in, cookie-free analytics and technical SEO.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/LektorGW/mtc-tactical-assistant"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mtc-map-panel.png" alt="MTC Tactical Assistant main panel" width="100%"></a>
