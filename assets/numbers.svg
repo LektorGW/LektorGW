@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="388 podcast episodes transcribed, 3.0 million words, 9 Shopify apps, 3 Roblox games, about 20 Minecraft server modules">
+  <defs>
+    <style>
+      .card{fill:#161816;stroke:#2a2d28}
+      .num{font:700 40px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#efeee8}
+      .lbl{font:500 14px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#a9ada3}
+      .acc{fill:#ff7844}
+      .c{animation:in .7s ease-out backwards}
+      .c2{animation-delay:.15s}.c3{animation-delay:.3s}.c4{animation-delay:.45s}.c5{animation-delay:.6s}
+      @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    </style>
+  </defs>
+  <rect width="1280" height="150" rx="18" fill="#111211"/>
+  <g class="c"><rect class="card" x="20" y="20" width="232" height="110" rx="14"/><text class="num" x="44" y="80">388</text><text class="lbl" x="44" y="108">podcast episodes transcribed</text><rect class="acc" x="44" y="34" width="24" height="3" rx="1.5"/></g>
+  <g class="c c2"><rect class="card" x="272" y="20" width="232" height="110" rx="14"/><text class="num" x="296" y="80">3.0M</text><text class="lbl" x="296" y="108">words, fully searchable</text><rect class="acc" x="296" y="34" width="24" height="3" rx="1.5"/></g>
+  <g class="c c3"><rect class="card" x="524" y="20" width="232" height="110" rx="14"/><text class="num" x="548" y="80">9</text><text class="lbl" x="548" y="108">apps in the Shopify App Store</text><rect class="acc" x="548" y="34" width="24" height="3" rx="1.5"/></g>
+  <g class="c c4"><rect class="card" x="776" y="20" width="232" height="110" rx="14"/><text class="num" x="800" y="80">3</text><text class="lbl" x="800" y="108">published Roblox games</text><rect class="acc" x="800" y="34" width="24" height="3" rx="1.5"/></g>
+  <g class="c c5"><rect class="card" x="1028" y="20" width="232" height="110" rx="14"/><text class="num" x="1052" y="80">~20</text><text class="lbl" x="1052" y="108">Minecraft server modules</text><rect class="acc" x="1052" y="34" width="24" height="3" rx="1.5"/></g>
+</svg>

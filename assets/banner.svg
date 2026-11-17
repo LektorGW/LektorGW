@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Maciej Kaczmarczyk, full-stack developer">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f221e" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#ff7844" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#ff7844" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#111211" stop-opacity="1"/>
+      <stop offset=".55" stop-color="#111211" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#111211" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .name{font:700 64px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#efeee8;letter-spacing:-1.5px}
+      .role{font:500 22px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#bdc3b7}
+      .line{font:600 26px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;fill:#efeee8;opacity:0}
+      .acc{fill:#ff7844}
+      .tag{font:600 13px 'Cascadia Code',Consolas,'SFMono-Regular',monospace;fill:#ff7844;letter-spacing:2px}
+      .l1{animation:cycle 16s infinite 0s}
+      .l2{animation:cycle 16s infinite 4s}
+      .l3{animation:cycle 16s infinite 8s}
+      .l4{animation:cycle 16s infinite 12s}
+      @keyframes cycle{0%{opacity:0;transform:translateY(10px)}4%{opacity:1;transform:translateY(0)}22%{opacity:1;transform:translateY(0)}26%{opacity:0;transform:translateY(-10px)}100%{opacity:0}}
+      .caret{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .dot{animation:pulse 3s ease-in-out infinite;transform-origin:1108px 196px}
+      @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
+      .node{animation:float 6s ease-in-out infinite}
+      .n2{animation-delay:-2s}.n3{animation-delay:-4s}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    </style>
+  </defs>
+
+  <rect width="1280" height="340" fill="#111211"/>
+  <rect width="1280" height="340" fill="url(#grid)"/>
+  <rect width="1280" height="340" fill="url(#glow)"/>
+
+  <!-- right side: logo mark + floating chips -->
+  <g transform="translate(948 70) scale(3.2)">
+    <rect width="64" height="64" rx="14" fill="#161816" stroke="#2a2d28"/>
+    <path d="M9.5 46V31.5a5.75 5.75 0 0 1 11.5 0V46M21 31.5a5.75 5.75 0 0 1 11.5 0V46M38.5 15V46M38.5 37.5L49.5 26.5M42.4 33.8L49.6 45" fill="none" stroke="#efeee8" stroke-width="5.2" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <circle class="dot acc" cx="1128.5" cy="208.9" r="11.5"/>
+
+  <g class="node" font-family="'Cascadia Code',Consolas,monospace" font-size="13" font-weight="600">
+    <rect x="806" y="64" width="118" height="30" rx="15" fill="#1a1c19" stroke="#33362f"/>
+    <text x="865" y="84" text-anchor="middle" fill="#efeee8">Next.js · TS</text>
+  </g>
+  <g class="node n2" font-family="'Cascadia Code',Consolas,monospace" font-size="13" font-weight="600">
+    <rect x="790" y="232" width="140" height="30" rx="15" fill="#1a1c19" stroke="#33362f"/>
+    <text x="860" y="252" text-anchor="middle" fill="#efeee8">ERP · KSeF · API</text>
+  </g>
+  <g class="node n3" font-family="'Cascadia Code',Consolas,monospace" font-size="13" font-weight="600">
+    <rect x="1160" y="56" width="96" height="30" rx="15" fill="#1a1c19" stroke="#ff7844" stroke-opacity=".6"/>
+    <text x="1208" y="76" text-anchor="middle" fill="#ff7844">AI agents</text>
+  </g>
+  <g class="node n2" font-family="'Cascadia Code',Consolas,monospace" font-size="13" font-weight="600">
+    <rect x="1172" y="262" width="82" height="30" rx="15" fill="#1a1c19" stroke="#33362f"/>
+    <text x="1213" y="282" text-anchor="middle" fill="#efeee8">Luau</text>
+  </g>
+
+  <rect width="760" height="340" fill="url(#fade)"/>
+
+  <!-- left side: text -->
+  <text class="tag" x="64" y="86">FULL-STACK DEVELOPER · GORZÓW WLKP., POLAND</text>
+  <text class="name" x="60" y="156">Maciej Kaczmarczyk<tspan class="acc">.</tspan></text>
+  <text class="role" x="64" y="194">Systems that real businesses run on, built end to end.</text>
+
+  <g transform="translate(64 258)">
+    <text class="acc" font-family="'Cascadia Code',Consolas,monospace" font-size="26" font-weight="700" x="0" y="0">&gt;</text>
+    <g transform="translate(30 0)">
+      <text class="line l1" x="0" y="0">B2B ordering portals synced with ERP</text>
+      <text class="line l2" x="0" y="0">Courier, payment &amp; e-invoicing integrations</text>
+      <text class="line l3" x="0" y="0">AI automations that actually save time</text>
+      <text class="line l4" x="0" y="0">Roblox games with 190+ automated tests</text>
+    </g>
+  </g>
+  <rect x="64" y="300" width="56" height="4" rx="2" class="acc"/>
+</svg>

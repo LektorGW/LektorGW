@@ -1,60 +1,73 @@
-# Maciej Kaczmarczyk
+<p align="center">
+  <a href="https://mkaczmarczyk.com"><img src="assets/banner.svg" alt="Maciej Kaczmarczyk, full-stack developer" width="100%"></a>
+</p>
 
-Full-stack developer from Gorzów Wielkopolski, Poland. I build production systems for businesses: ordering portals, integrations with ERP, couriers and e-invoicing, and automations that use AI where it actually saves time. I also make Roblox games.
+<p align="center">
+  <a href="https://mkaczmarczyk.com/en/"><img src="https://img.shields.io/badge/Portfolio-mkaczmarczyk.com-ff7844?style=for-the-badge&labelColor=111211" alt="Portfolio"></a>
+  <a href="https://apps.shopify.com/partners/lektor"><img src="https://img.shields.io/badge/Shopify_App_Store-9_apps-7AB55C?style=for-the-badge&logo=shopify&logoColor=white&labelColor=111211" alt="Shopify apps"></a>
+  <a href="https://www.roblox.com/games/101257030687266/Space-Garden"><img src="https://img.shields.io/badge/Roblox-Space_Garden-efeee8?style=for-the-badge&logo=roblox&logoColor=white&labelColor=111211" alt="Space Garden on Roblox"></a>
+  <img src="https://img.shields.io/badge/Open_to-remote_work_%26_projects-2ea043?style=for-the-badge&labelColor=111211" alt="Open to work">
+</p>
 
-I talk to the people who will use the system, turn what they need into a plan, ship a first version fast and keep improving it with them.
+I build production systems for businesses: ordering portals, integrations with ERP, couriers and e-invoicing, and automations that use AI where it actually saves time. I talk to the people who will use the system, turn what they need into a plan, ship a first version fast and keep improving it with them.
 
-🌐 **[mkaczmarczyk.com](https://mkaczmarczyk.com)** · open to remote work and freelance projects (employment contract or B2B)
+<p align="center"><img src="assets/numbers.svg" alt="388 podcast episodes transcribed, 3.0M words, 9 Shopify apps, 3 Roblox games, ~20 Minecraft modules" width="100%"></p>
 
----
+## Selected work
 
-### Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/mitopharma.png" alt="B2B wholesale ordering portal">
+<h3>B2B wholesale ordering portal</h3>
+<sub><b>In production</b> · Next.js 15 · React 19 · TypeScript · Prisma · C#/.NET</sub>
+<p>Customer-specific prices, quick ordering by product code, invoices and balances. My C#/.NET connector syncs orders both ways with the Subiekt GT ERP, shipments go through DHL, InPost and Orlen Paczka APIs, and the sales team gets an AI assistant that only sees pseudonymised data. First working version in a week.</p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/rtr-archiwum.png" alt="Searchable podcast archive">
+<h3>Searchable podcast archive</h3>
+<sub><b>Client in the US</b> · Python · Whisper · FFmpeg</sub>
+<p>388 episodes and 355 hours of audio turned into 3 million searchable words. Every episode summarized and tagged, and search jumps straight to the moment in the audio. Built with a parallel transcription pipeline that survives interruptions.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/lektoro-customs.png" alt="Lektoro Shopify apps">
+<h3>Lektoro · 9 Shopify apps</h3>
+<sub><a href="https://apps.shopify.com/partners/lektor">Shopify App Store</a> · TypeScript · React Router</sub>
+<p>EU product compliance (GPSR, EPR), HS codes and customs data, stock and sync monitoring, purchase orders with MOQ, price rounding.</p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/panorama-plan.png" alt="Shopping centre interactive floor plan">
+<h3>Shopping centre website</h3>
+<sub><a href="https://chpanorama.pl">chpanorama.pl</a> · Laravel 11 · Filament · Alpine.js</sub>
+<p>Interactive floor plan connected to the store directory: level switching, search, zoom and a unit card drawn on the architectural plans. Tenants, promotions and events managed in a Filament CMS.</p>
+</td>
+</tr>
+</table>
 
-Most of my client work lives in private repositories. Short descriptions below, more on [my portfolio](https://mkaczmarczyk.com/en/).
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
-**B2B wholesale ordering portal** · in production
-Next.js 15 · React 19 · TypeScript · Prisma · MariaDB · C#/.NET
-Customer-specific prices and discounts, quick ordering by product code, invoices and balances. A desktop C#/.NET connector syncs orders both ways with the Subiekt GT ERP, shipments go through the DHL, InPost and Orlen Paczka APIs, and the sales team has an AI assistant that only sees pseudonymised data. First working version in a week.
+- **Bakery operations system** · Next.js 16, Drizzle, KSeF, Dotykačka POS. Raw material stock, recipes with costing, production orders, transfers between shops, national e-invoicing. Built in 4 days part-time with AI coding agents.
+- **[electio.org.pl](https://electio.org.pl)** · Laravel 12, Livewire 3, Filament. WordPress migration, district map, projects and events, online donations (PayU), newsletter with double opt-in.
+- **Roblox** · 3 published games, including [Space Garden](https://www.roblox.com/games/101257030687266/Space-Garden) (Luau, DataStore, MarketplaceService, 190+ automated tests).
+- **Hackathons** · [tender-lens](https://github.com/LektorGW/tender-lens) (on-device + Firebase AI tender analysis) · [mistakemap](https://github.com/LektorGW/mistakemap) (misconception maps for teachers).
 
-**Bakery operations system**
-Next.js 16 · TypeScript · Drizzle ORM · KSeF · Dotykačka POS
-Raw material stock, recipes with cost calculation, production orders, transfers between shops and Polish national e-invoicing (KSeF).
+</details>
 
-**Searchable podcast archive** · client from the US
-Python · Whisper · FFmpeg
-378 episodes transcribed with a Whisper pipeline, with summaries, keywords and a search website.
+## Stack
 
-**Lektoro: 9 apps in the Shopify App Store** · [apps.shopify.com/partners/lektor](https://apps.shopify.com/partners/lektor)
-TypeScript · React Router
-EU product compliance (GPSR, EPR), HS codes and customs data, stock monitoring, purchase orders, price rounding.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,vite,prisma,php,laravel,python,flask,fastapi,cs,dotnet,java,rust,tauri&perline=17" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,linux,bash,cloudflare,git,github,wordpress&perline=11" alt="Tools and platforms">
+</p>
 
-**Websites**
-[electio.org.pl](https://electio.org.pl) (Laravel 12, Livewire 3, Filament, online donations) · [chpanorama.pl](https://chpanorama.pl) (shopping centre site with an interactive floor plan)
+## How I work with AI
 
-**Roblox games** · 3 published, including [Space Garden](https://www.roblox.com/games/101257030687266/Space-Garden) (Luau, DataStore, MarketplaceService, 190+ tests)
+I use AI coding agents (Claude Code, Codex) every day. I write the spec and acceptance criteria, the agent drafts the change, and I review the diff and test it before anything ships. Business logic, client data and security I check myself: the agent writes faster, but the code is my responsibility.
 
-**Hackathon projects** (public here): [tender-lens](https://github.com/LektorGW/tender-lens) · [mistakemap](https://github.com/LektorGW/mistakemap)
-
----
-
-### Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MariaDB%2FMySQL-003545?style=flat&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox%20Luau-000000?style=flat&logo=roblox&logoColor=white)
-
-Daily with AI coding agents (Claude Code, Codex): I write the spec, the agent drafts the change, I review the diff and test before it ships.
-
-Certificates: Linux Essentials · Cisco Networking Academy
+<p align="center">
+  <sub>Linux Essentials · Cisco Networking Academy · <a href="https://mkaczmarczyk.com">mkaczmarczyk.com</a></sub>
+</p>
