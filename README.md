@@ -19,7 +19,7 @@ I build production systems for businesses: ordering portals, integrations with E
 <tr>
 <td colspan="2" valign="top">
 <a href="https://github.com/LektorGW/mtc-tactical-assistant"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mtc-map-panel.png" alt="MTC Tactical Assistant main panel" width="100%"></a>
-<h3>MTC Tactical Assistant · <a href="https://github.com/LektorGW/mtc-tactical-assistant">source on GitHub</a></h3>
+<h3>MTC Tactical Assistant · <a href="https://github.com/LektorGW/mtc-tactical-assistant">open source · MIT</a></h3>
 <sub>Rust · Tauri 2 · React 19 · TypeScript · local OCR · 109 UI tests</sub>
 <p>A Windows desktop app that reads a game's map and HUD from the screen with local OCR and turns it into a firing solution in a transparent overlay. Ballistics solver with drag and rocket-motor models (RK4), 3D intercept for moving targets, map calibration from two points, 153 projectile profiles for 51 weapons. Core logic is a workspace of 6 Rust crates behind a React UI.</p>
 </td>
