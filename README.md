@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mkaczmarczyk.com"><img src="assets/banner.svg" alt="Maciej Kaczmarczyk, full-stack developer" width="100%"></a>
+  <a href="https://mkaczmarczyk.com"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/banner.svg" alt="Maciej Kaczmarczyk, full-stack developer" width="100%"></a>
 </p>
 
 <p align="center">
@@ -11,20 +11,20 @@
 
 I build production systems for businesses: ordering portals, integrations with ERP, couriers and e-invoicing, and automations that use AI where it actually saves time. I talk to the people who will use the system, turn what they need into a plan, ship a first version fast and keep improving it with them.
 
-<p align="center"><img src="assets/numbers.svg" alt="388 podcast episodes transcribed, 3.0M words, 9 Shopify apps, 3 Roblox games, ~20 Minecraft modules" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/numbers.svg" alt="388 podcast episodes transcribed, 3.0M words, 9 Shopify apps, 3 Roblox games, ~20 Minecraft modules" width="100%"></p>
 
 ## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/mitopharma.png" alt="B2B wholesale ordering portal">
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/mitopharma.png" alt="B2B wholesale ordering portal">
 <h3>B2B wholesale ordering portal</h3>
 <sub><b>In production</b> · Next.js 15 · React 19 · TypeScript · Prisma · C#/.NET</sub>
 <p>Customer-specific prices, quick ordering by product code, invoices and balances. My C#/.NET connector syncs orders both ways with the Subiekt GT ERP, shipments go through DHL, InPost and Orlen Paczka APIs, and the sales team gets an AI assistant that only sees pseudonymised data. First working version in a week.</p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/rtr-archiwum.png" alt="Searchable podcast archive">
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/rtr-archiwum.png" alt="Searchable podcast archive">
 <h3>Searchable podcast archive</h3>
 <sub><b>Client in the US</b> · Python · Whisper · FFmpeg</sub>
 <p>388 episodes and 355 hours of audio turned into 3 million searchable words. Every episode summarized and tagged, and search jumps straight to the moment in the audio. Built with a parallel transcription pipeline that survives interruptions.</p>
@@ -32,13 +32,13 @@ I build production systems for businesses: ordering portals, integrations with E
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/lektoro-customs.png" alt="Lektoro Shopify apps">
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/lektoro-customs.png" alt="Lektoro Shopify apps">
 <h3>Lektoro · 9 Shopify apps</h3>
 <sub><a href="https://apps.shopify.com/partners/lektor">Shopify App Store</a> · TypeScript · React Router</sub>
 <p>EU product compliance (GPSR, EPR), HS codes and customs data, stock and sync monitoring, purchase orders with MOQ, price rounding.</p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/panorama-plan.png" alt="Shopping centre interactive floor plan">
+<img src="https://raw.githubusercontent.com/LektorGW/LektorGW/main/assets/panorama-plan.png" alt="Shopping centre interactive floor plan">
 <h3>Shopping centre website</h3>
 <sub><a href="https://chpanorama.pl">chpanorama.pl</a> · Laravel 11 · Filament · Alpine.js</sub>
 <p>Interactive floor plan connected to the store directory: level switching, search, zoom and a unit card drawn on the architectural plans. Tenants, promotions and events managed in a Filament CMS.</p>
